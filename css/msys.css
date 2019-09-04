@@ -84,6 +84,7 @@ h6{
 }
 
 .boton_personalizado {
+<<<<<<< HEAD
     border: 1px solid #2e518b; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
     background-color: #2e518b; /*color botón*/
@@ -93,4 +94,15 @@ h6{
     font-family: 'Helvetica', sans-serif; /*tipografía texto*/
     border-radius: 50px; /*bordes redondos*/
     text-align:center;
+=======
+border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #2e518b; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+text-align:center;
+>>>>>>> 6840eef7242b60519c51e043ebb64b4b872f2649
 }
