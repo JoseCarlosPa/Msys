@@ -1,5 +1,72 @@
 nav{
     text-align: right;
+    margin-left: 4%;
     width: 100%;
+}
+.nav_text{
+    color: white; !important;
+    text-align: right;
+    font-size: 85%;
+    margin-left:40%;
+    padding-left: 10%;
+}
+
+.first_container{
+    background-image: url("images/hero_background.png");
+}
+.second_container{
+    background-image: url("images/background_shape1.png") ;
+    background-attachment: fixed;/*para que sea estático*/
+    background-position: top right;/*arriba a la derecha*/
+    background-repeat: no-repeat;/*que no se repita el fondo*/
+}
+.cuadrado_naranja{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 15px 15px 15px;
+    -moz-border-radius: 15px 15px 15px 15px;
+    -webkit-border-radius: 15px 15px 15px 15px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
+    box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
+    background: orange;
+    color: white;
+
+}
+h2{
+    text-align: center;
+    color: white;
+
+}
+h6{
+    text-align: center;
+    color: white;
+}
+
+.boton_ver_mas{
+    text-align: center;
+    align-content: center;
+    border-radius: 30px 30px 30px 30px;
+    -moz-border-radius: 30px 30px 30px 30px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+    border: 0px solid #000000;
+    background: orange;
+    height: 100%;
+    width: 30%;
+    color: white;
+}
+
+.titulo_cuadro_naranja{
+    color:white;
+    text-align: left;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.texto_cuadro_naranja{
+    color:wheat;
+    text-align: left;
+    font-size: 100%;
 }
 
