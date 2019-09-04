@@ -27,7 +27,20 @@ nav{
 .third_container{
     margin: 0 auto;
     max-width: 80%;
+
 }
+
+.fourth_container{
+    background-image: url("images/msys_caja.png");
+}
+
+.fifht_conatiner{
+    background-image: url("images/background_shape2.png") ;
+    background-position: top left;/*arriba a la derecha*/
+    background-repeat: no-repeat;/*que no se repita el fondo*/
+}
+
+
 
 .descripcion_imagenes_third_container{
     color:blue;
@@ -46,6 +59,25 @@ nav{
     background: orange;
     color: white;
 
+}
+.contactanos{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
+    box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
+    background: #5399ff;
+    color: white;
+
+}
+.contactanos_back{
+    background-image: url("images/msy_graphic.png");
+    background-position: top left;/*arriba a la derecha*/
+    background-repeat: no-repeat;/*que no se repita el fondo*/
 }
 h2{
     text-align: center;
@@ -70,6 +102,18 @@ h6{
     color: white;
 }
 
+.boton_comprar{
+    text-align: center;
+    align-content: center;
+    border-radius: 30px 30px 30px 30px;
+    -moz-border-radius: 30px 30px 30px 30px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+    border: 0px solid #000000;
+    background: orange;
+    height: 100%;
+    width: 15%;
+    color: white;
+}
 .titulo_cuadro_naranja{
     color:white;
     text-align: left;
@@ -77,6 +121,25 @@ h6{
     font-weight: bold;
 }
 
+.titulo_prefooter{
+    color: blue;
+    text-align: center;
+    font-size: 110%;
+}
+.titulo_contactanos{
+    color: white;
+    font-size: 200%;
+}
+.titulo_banners{
+    color: grey;
+    text-align: center;
+    font-size: 110%;
+}
+.texto_prefooter{
+    color: blue;
+    text-align: center;
+    font-size: 110%;
+}
 .texto_cuadro_naranja{
     color:wheat;
     text-align: left;
