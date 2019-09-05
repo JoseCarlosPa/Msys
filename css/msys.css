@@ -58,7 +58,7 @@ nav{
     -webkit-box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
     -moz-box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
     box-shadow: 3px 4px 27px -8px rgba(0,0,0,0.75);
-    background: orange;
+    background: #f48621;
     color: white;
 
 }
@@ -99,7 +99,7 @@ h1{
     -moz-border-radius: 30px 30px 30px 30px;
     -webkit-border-radius: 30px 30px 30px 30px;
     border: 0px solid #000000;
-    background: orange;
+    background: #f48621;
     height: 3em;
     width: 35%;
     color: white;
@@ -112,7 +112,7 @@ h1{
     -moz-border-radius: 30px 30px 30px 30px;
     -webkit-border-radius: 30px 30px 30px 30px;
     border: 0px solid #000000;
-    background: orange;
+    background: #f48621;
     height: 3em;
     width: 15%;
     color: white;
@@ -187,7 +187,7 @@ hr{
     -moz-border-radius: 30px 30px 30px 30px;
     -webkit-border-radius: 30px 30px 30px 30px;
     border: 0px solid #000000;
-    background: orange;
+    background: #f48621;
     height: 2em;
     width: 50%;
     color: white;
