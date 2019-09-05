@@ -198,3 +198,6 @@ hr{
 #link{
     color: #ebebeb;
 }
+html{
+    scroll-behavior: smooth;
+}
